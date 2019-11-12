@@ -8,4 +8,9 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
+$(document).ready(function() {
 
+    //DOM manipulation code
+    $("#userChoice").text('hello')
+
+});
